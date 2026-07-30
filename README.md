@@ -7,7 +7,7 @@
 
 ## Project Description
 
-TaskFlow is a modern task management application created to demonstrate collaborative Git and DevOps practices.
+TaskFlow is a simple and responsive Todo application demonstrating automated CI/CD workflows.
 
 The application allows users to create, manage, complete, delete, and filter daily tasks. Task data is stored using browser Local Storage, allowing tasks to remain available even after the page is refreshed.
 
