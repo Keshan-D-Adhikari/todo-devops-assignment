@@ -236,8 +236,6 @@ This was corrected by changing the repository default branch to `main`, ensuring
 
 ### Merge Conflict Demonstration
 
-## Merge Conflict Demonstration
-
 A merge conflict was intentionally created in `README.md` by making different changes on the `main` and `feature/conflict-demo` branches.
 
 Git detected the content conflict during the merge process. The conflict was reviewed and resolved, the corrected file was staged, and the resolution was committed using:
