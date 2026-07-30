@@ -236,7 +236,15 @@ This was corrected by changing the repository default branch to `main`, ensuring
 
 ### Merge Conflict Demonstration
 
-A merge conflict demonstration and resolution will be documented here after completing the required Git conflict-resolution exercise.
+## Merge Conflict Demonstration
+
+A merge conflict was intentionally created in `README.md` by making different changes on the `main` and `feature/conflict-demo` branches.
+
+Git detected the content conflict during the merge process. The conflict was reviewed and resolved, the corrected file was staged, and the resolution was committed using:
+
+`fix: resolve README merge conflict`
+
+The completed conflict-resolution changes were submitted through Pull Request #5 and successfully merged into the `develop` branch.
 
 ## Build Status
 
