@@ -7,7 +7,7 @@
 
 ## Project Description
 
-TaskFlow is a responsive Todo List application developed for the Advanced Git & DevOps Team Collaboration Assignment.
+TaskFlow is a modern task management application created to demonstrate collaborative Git and DevOps practices.
 
 The application allows users to create, manage, complete, delete, and filter daily tasks. Task data is stored using browser Local Storage, allowing tasks to remain available even after the page is refreshed.
 
@@ -286,3 +286,4 @@ todo-devops-assignment/
 ## License
 
 This project was created for educational purposes as part of the Advanced Git & DevOps Team Collaboration Assignment.
+
